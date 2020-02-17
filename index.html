@@ -5,15 +5,14 @@
             Exercise 1
         </title>
 <link rel="stylesheet" href="style.css">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script type="text/javascript" src="data.json"></script>
+<script type="text/javascript" src="data.js"></script>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-<script type="text/javascript" src="es6.js"></script>   
 </head >
     <body style="background-color: black;">
       <br>
-      <button type="button" class="btn btn-outline-primary getJdata" style="margin-left: 2px;" onclick="myFunction()">Load Data</button>
+      <button type="button" class="btn btn-outline-primary getJdata" style="margin-left: 2px;" id="changeColor">Load Data</button>
       <button type="button" class="btn btn-outline-success  button2 ">Refresh</button>
+      <!-- <button type="button" id="editbtn" class="btn btn-outline-success  button2 ">Edit</button> -->
   <br><br>
   <div class="container">
     <div class="table-responsive table bordered">
@@ -24,13 +23,16 @@
       <th>last Name</th>
       <th>Email</th>
       <th>Phone Number</th>
-      <th >Role</th>
       <th>Address</th>
       <th style="width: 200px;">Actions</th>
     </tr>
+    <tbody id="tablebody"></tbody>
   </table>
 </div>
 </div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript" src="es6.js"></script>  
+<script type="text/javascript" src="validate.js" ></script> 
     </body>
 
 </html>

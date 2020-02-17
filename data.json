@@ -1,11 +1,9 @@
-[{
-  "id": 1,
+ [{
   "first_name": "Gilemette",
   "middle_name": "Tynan",
   "last_name": "Balint",
   "email": "tbalint0@thetimes.co.uk",
   "phone_number": "591-332-5371",
-  "role":["Admin"],
   "address": "102 Crescent Oaks Alley"
 }, {
   "first_name": "Skyler",
@@ -13,7 +11,6 @@
   "last_name": "Vasyutin",
   "email": "vvasyutin1@usgs.gov",
   "phone_number": "653-746-4287",
-  "role":["Admin"],
   "address": "61 Vidon Place"
 }, {
   "first_name": "Ricard",
@@ -21,7 +18,6 @@
   "last_name": "Kneath",
   "email": "akneath2@economist.com",
   "phone_number": "205-309-2691",
-  "role":["Admin"],
   "address": "57950 Kipling Point"
 }, {
   "first_name": "Antonius",
@@ -29,7 +25,6 @@
   "last_name": "Franzini",
   "email": "efranzini3@devhub.com",
   "phone_number": "902-664-7380",
-  "role":["Admin"],
   "address": "9869 Armistice Junction"
 }, {
   "first_name": "Cilka",
@@ -37,7 +32,6 @@
   "last_name": "Turnell",
   "email": "jturnell4@plala.or.jp",
   "phone_number": "480-110-7728",
-  "role": ["Admin"],
   "address": "10073 Armistice Crossing"
 }, {
   "first_name": "Morty",
@@ -45,7 +39,6 @@
   "last_name": "Huffy",
   "email": "khuffy5@amazonaws.com",
   "phone_number": "668-803-6895",
-  "role": ["Admin"],
   "address": "2 Katie Parkway"
 }, {
   "first_name": "Vallie",
@@ -53,7 +46,6 @@
   "last_name": "Rubee",
   "email": "srubee6@wufoo.com",
   "phone_number": "375-806-1251",
-  "role": ["Admin"],
   "address": "76 Old Gate Court"
 }, {
   "first_name": "Anne-corinne",
@@ -61,7 +53,6 @@
   "last_name": "Collicott",
   "email": "scollicott7@ucsd.edu",
   "phone_number": "214-566-0098",
-  "role": ["Admin"],
   "address": "4719 1st Court"
 }, {
   "first_name": "Fitz",
@@ -69,7 +60,6 @@
   "last_name": "Grieger",
   "email": "dgrieger8@engadget.com",
   "phone_number": "642-614-2510",
-  "role": ["Admin"],
   "address": "1 Ronald Regan Road"
 }, {
   "first_name": "Alexei",
@@ -77,6 +67,5 @@
   "last_name": "Cranke",
   "email": "mcranke9@furl.net",
   "phone_number": "406-640-4504",
-  "role":["Admin"],
   "address": "1062 Dakota Lane"
 }]
